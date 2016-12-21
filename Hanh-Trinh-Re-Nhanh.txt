@@ -1,0 +1,16 @@
+tao nhanh
+- git branch ten nhanh
+xoa nhanh
+- git branch -D ten nhanh
+chuyen nhanh
+- git checkout ten nhanh muon chuyen 
+dong bo tu nhanh den master
+- git pull origin master
+them file
+- git add ten file
+kiem tra
+- git status
+dang file
+- git commit -m "tag name"
+push file
+- git push origin ten nhanh
